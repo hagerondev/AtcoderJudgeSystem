@@ -1,0 +1,2 @@
+[["atcoder"], ["abc"], ["zyxwvutsrqponmlkjihgfedcba"], ["abcdefghijklmnopqrstuvwzyx"]]
+[["atcoderb"], ["abcd"], ["-1"], ["abcdefghijklmnopqrstuvx"]]
