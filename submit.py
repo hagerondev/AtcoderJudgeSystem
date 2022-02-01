@@ -42,8 +42,8 @@ def init():
 	return url
 
 def login():
-	user = "hageron"
-	password ="y19991229"
+	user = "user"
+	password = "password"
 	webdriver.find_element_by_xpath('//*[@id="username"]').send_keys(user)
 	webdriver.find_element_by_xpath('//*[@id="password"]').send_keys(password)
 	loginButton = webdriver.find_element_by_xpath('//*[@id="submit"]')
