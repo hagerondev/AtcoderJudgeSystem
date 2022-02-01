@@ -1,8 +1,8 @@
 chromedriver**
 
-_pycache_/*
+_pycache_
 
-Sample/*
+Sample
 
 debug.log
 
